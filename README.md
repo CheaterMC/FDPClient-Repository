@@ -1,2 +1,2 @@
-# FDPClient-Repository
-A repository for FDPClient Resources
+# FDPClient Repository
+A repository for FDPClient Resources.
